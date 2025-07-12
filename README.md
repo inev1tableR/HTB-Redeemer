@@ -17,7 +17,7 @@ Discovered: 6379/tcp open with Redis service running
 
 ## Redit Enumeration
 
-Connected to Redit:
+Connected to Redis:
 
 ```bash
  redis-cli 10.129.196.208
